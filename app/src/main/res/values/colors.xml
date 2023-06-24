@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="coklat_tua">#C58940</color> // color 4
+    <color name="coklat">#E5BA73</color> // color 3
+    <color name="kuning_muda">#FAEAB1</color> // color 2
+    <color name="coklat_muda">#F8EEDC</color>
+    <color name="edit_color">#FAF8F1</color> // color 1
+    <color name="hijau">#2BAF6A</color>
+    <color name="merah">#E42217</color>
+
+    <!-- Dark Brown -->
+    <color name="primary_1_900">#FFC58940</color>
+    <color name="primary_1_500">#80C58940</color>
+    <color name="primary_1_200">#33C58940</color>
+    
+    <!-- Medium Brown -->
+    <color name="primary_2_900">#FFE5BA73</color>
+    <color name="primary_2_500">#80E5BA73</color>
+    <color name="primary_2_200">#33E5BA73</color>
+    
+    <!-- Light Brown -->
+    <color name="primary_3_900">#FFFAEAB1</color>
+    <color name="primary_3_500">#80FAEAB1</color>
+    <color name="primary_3_200">#33FAEAB1</color>
+    
+    <!-- White Brown -->
+    <color name="primary_4_900">#FFFAF8F1</color>
+    <color name="primary_4_500">#80FAF8F1</color>
+    <color name="primary_4_200">#33FAF8F1</color>
+    
+    <!-- Warning and Success -->
+    <color name="waring">#E42217</color>
+    <color name="success">#2BAF6A</color>
+
+</resources>
